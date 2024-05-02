@@ -1,9 +1,9 @@
 # GAN_PROJECT
-#Generative Adversarial Networks (GANs) Implementations
+##Generative Adversarial Networks (GANs) Implementations
 
 This repository contains Python implementations of various Generative Adversarial Networks (GANs) using PyTorch framework. The implemented models include Vanilla GAN, DCGAN (Deep Convolutional GAN), and SRGAN (Super-Resolution GAN). Each model is implemented with detailed comments for easy understanding and modification.
 
-Implemented Models
+##Implemented Models
 
 1. Vanilla GAN
 The Vanilla GAN is one of the simplest forms of GANs, consisting of a generator and a discriminator. The generator learns to produce data similar to the training set, while the discriminator learns to distinguish between real and generated data.
